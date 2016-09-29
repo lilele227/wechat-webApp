@@ -1,6 +1,5 @@
 # wechat-webApp
-小程序经验总结
-# 微信小程序开发资源汇总
+# 微信小程序学习
 
 ## 目录
 
@@ -15,7 +14,7 @@
 - [代码](#代码)
 - [其他](#其他)
 
-扫码加群：(如果群满了加我个人微信号(justjavac)我拉你入群)
+扫码加群：(如果群满了加我个人微信号(lilele227)我拉你入群)
 
 ![微信小程序交流区群](./qrcode.png)
 
@@ -114,6 +113,3 @@
 - [微信小程序-番茄时钟(kraaas/timer)](https://github.com/kraaas/timer)
 - [微信小程序项目汇总](http://javascript.ctolib.com/categories/javascript-wechat-weapp.html)
 - [微信小程序版聊天室(ericzyh/wechat-chat)](https://github.com/ericzyh/wechat-chat)
-
-## 其他
-- [如何看待知乎用户 @ justjavac 因「抄袭」在各大平台撕逼 PHPhub 管理员「发哥」？(知乎)](https://www.zhihu.com/question/50967529)
