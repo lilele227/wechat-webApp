@@ -2,7 +2,11 @@
 # 微信小程序总结
 
 ##写在前面
-    作为JavaScript开发者，现在是一个激动人心的时刻。这几天被微信小程序（应用号）刷爆了屏，心细的你们会发现，绝大多数文章最后会加上这么一句，大致意思是JavaScript开发要火。我认为这句话不贴切，准确的说是JavaScript已经火了，这次是火上浇油！JavaScripter们，你们应该感谢自己的眼光，成为潮流中的弄潮儿，当然，更应该感谢在前线填坑的先辈们（腾讯的文档没有不坑爹的），此文中会附上各位大神的链接，对于大神的尊敬，会附上文档源头，希望大家多多支持作者，谢谢。
+    作为JavaScript开发者，现在是一个激动人心的时刻。这几天被微信小程序（应用号）刷爆了屏，心细的你们会发现，
+    绝大多数文章最后会加上这么一句，大致意思是JavaScript开发要火。我认为这句话不贴切，准确的说是JavaScript
+    已经火了，这次是火上浇油！JavaScripter们，你们应该感谢自己的眼光，成为潮流中的弄潮儿，当然，更应该感谢在
+    前线填坑的先辈们（腾讯的文档没有不坑爹的），此文中会附上各位大神的链接，对于大神的尊敬，会附上文档源头，
+    希望大家多多支持作者，谢谢。
 
 ## list
 
@@ -24,9 +28,11 @@
 - [小程序开发文档](https://mp.weixin.qq.com/debug/wxadoc/dev/index.html)
 - [小程序设计指南](https://mp.weixin.qq.com/debug/wxadoc/design/index.html)
 - [小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
+- [小程序运营规范](https://mp.weixin.qq.com/debug/wxadoc/product/index.html)
 
 ## 新闻报道
 - [驴妈妈布局“微信小程序”](http://news.163.com/17/0105/06/CA0FL25K00018AOP.html)
+- [体验了小程序，发现安卓的更像“真正的小程序”](http://36kr.com/p/5060520.html)
 
 
 ## 工具
