@@ -26,10 +26,8 @@
 - [小程序开发者工具](https://mp.weixin.qq.com/debug/wxadoc/dev/devtools/download.html)
 
 ## 新闻报道
+- [驴妈妈布局“微信小程序”](http://news.163.com/17/0105/06/CA0FL25K00018AOP.html)
 
-- [微信正式开放内测“小程序”，不开发APP的日子真的来了？(36氪)](http://36kr.com/p/5053349.html)
-- [关于微信小程序（应用号），我能透露的几个细节(可能吧)](https://kenengba.com/post/3515.html)
-- [你的产品适不适合做微信小程序？你需要这篇产品逻辑分析(虎嗅网)](https://www.huxiu.com/article/164700.html)
 
 ## 工具
 
