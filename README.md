@@ -11,6 +11,7 @@
 
 - [官方文档](#官方文档)
 - [新闻报道](#新闻报道)
+- [小程序攻略](#小程序攻略)
 - [工具](#工具)
 - [插件](#插件)
 - [分析](#分析)
@@ -33,6 +34,11 @@
 - [驴妈妈布局“微信小程序”](http://news.163.com/17/0105/06/CA0FL25K00018AOP.html)
 - [体验了小程序，发现安卓的更像“真正的小程序”](http://36kr.com/p/5060520.html)
 - [张小龙针对“小程序”八问八答](http://36kr.com/p/5060481.html)
+
+## 小程序攻略
+- [小程序最全上手指南](http://mp.weixin.qq.com/s/mDxXZN3ITfROjvXk2dNjiw)
+- [小程序最全清单](http://mp.weixin.qq.com/s/P9GDSueSyVm5UCk5kcE0GQ)
+- [小程序上线的第一天](http://mp.weixin.qq.com/s/ab-2zYcS7DF9U2z-YaI7Kw)
 
 ## 工具
 
